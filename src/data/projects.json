@@ -1,26 +1,36 @@
 [
   {
-    "title": "Project A",
+    "title": "Predicting flight ticket prices using ML",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This project made to predict the flight prices using techinques like linear, bagging regression, Regression SVM(Linear , polynomial) and multilayer perceptron.",
+    "skills": ["Python", "HTML", "Machine Learning"],
+    "demo": "https://drive.google.com/file/d/1gbwBpaXNdqBHZgBjF8eJJTO1Ag-AQCSd/view?usp=sharing",
+    "source": "https://github.com/MohammadArshad88/Flight_price"
   },
   {
-    "title": "Project B",
+    "title": "Design and implementation of custom function configuration using Linux",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This project is made to get system configuration in linux OS using a single command. Generated a .iso file at the end.",
+    "skills": ["Shell scripting", "Zenity"],
+    "demo": "https://youtu.be/CJwKUHGBo4o?si=ozNbs9w5wGSbeigw",
+    "source": "https://github.com/MohammadArshad88/Custom-function-configuration"
   },
   {
-    "title": "Project C",
+    "title": "EcoEcho - A species identifying web application",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This project made to identify which species the uploaded animal belongs to. Used flask framework and AWS.",
+    "skills": ["HTML", "CSS", "JavaScript", "Python","AWS"],
+    "demo": "https://drive.google.com/drive/u/0/search?q=fury-codz",
+    "source": "https://github.com/MohammadArshad88/Fury-CODz"
+  },
+  {
+    "title": "Capturing perpetrators",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to identify the criminals using their facial recognition and hand gestures. Created a dataset full of images and classified those with the IBM classifier. Used AWS Image Rekognition and SNS services.",
+    "skills": ["Python", "AWS"],
+    "demo": "https://photos.onedrive.com/share/A62BDBC309566E5F!2061?cid=A62BDBC309566E5F&resId=A62BDBC309566E5F!2061&ithint=video&e=PKaCdd&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3YvcyFBbDl1VmduRDJ5dW1rQTFyMldMd2dlREx4dE9BP2U9UEthQ2Rk",
+    "source": "https://github.com/MohammadArshad88/capturing_perpetrator"
   }
+  
+
 ]
